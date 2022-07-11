@@ -2,18 +2,21 @@
 A script which allows you to carry use an item to open a crafting table
 
 Info
+
 Resmond 0.00ms
 Use an item to place a tool box on the ground
 Can configure almost everything
 Included image for inventory
 
 installation
+
 Download the file
 Extract to resources folder
 start in your server.cfg
 Done!
 
 Dependencies
+
 ESX 1.2 or Legacy
 qtarget https://forum.cfx.re/t/qtarget-a-re-written-and-optimised-third-eye-solution/3984356
 PolyZone https://github.com/mkafrin/PolyZone
