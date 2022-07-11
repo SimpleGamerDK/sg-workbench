@@ -5,6 +5,7 @@ Info
 Resmond 0.00ms
 Use an item to place a tool box on the ground
 Can configure almost everything
+Included image for inventory
 
 installation
 Download the file
