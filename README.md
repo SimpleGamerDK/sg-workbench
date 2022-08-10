@@ -24,3 +24,5 @@ PolyZone https://github.com/mkafrin/PolyZone
 Do not reupload the script and claim it as your own You are free to modify and change the script how ever you like Since I have very limited knowledge with coding in general and in fivem I won't be able to help if you encounter any issues. All rights go to the creator of the script and all rights go to the creators of following dependencies
 
 If you modify the script in any way that you think might make it better please contact me via discord: SimpleGamer#1712
+
+Credits to Kallock the owner of the Goodlife roleplay for the parts of the code that allows placing objects and picking them up from the floor again.
